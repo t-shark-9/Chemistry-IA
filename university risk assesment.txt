@@ -1,0 +1,44 @@
+1. Description of Procedure
+This experiment investigates the pressure-temperature behavior of various gases (O₂, N₂, Ar, He, Ne) in a 6-liter vacuum chamber. The chamber is evacuated, filled with 1L of gas, and subjected to a temperature cycle from –8°C to 250°C. Pressure and temperature are recorded at each stage. The chamber is then vented and reset before repeating the cycle with a different gas.
+
+2. Hazards Identified
+Hazard	Potential Harm	Persons at Risk
+High temperature (250°C)	Burns, fire hazard	Operator
+Cryogenic/freezing conditions	Frostbite, thermal shock to glassware	Operator
+Pressurized gas release	Inhalation, explosion risk	Operator, nearby lab users
+Implosion of vacuum chamber	Flying debris, lacerations	Operator
+Handling reactive gases (e.g. F₂, Cl₂)	Toxicity, corrosion, respiratory harm	Operator, lab occupants
+Manual handling of chamber	Strain or injury	Operator
+3. Risk Control Measures
+Conduct all gas release steps in a fume hood or ventilated enclosure.
+
+Use heat-resistant gloves and tongs when handling hot chamber.
+
+Use cryogenic gloves and face shield when handling cold chamber.
+
+Ensure pressure gauge and thermocouple are calibrated and functioning.
+
+Use only compatible gases; avoid reactive gases unless proper containment and neutralization systems are in place.
+
+Inspect chamber for cracks or damage before each cycle.
+
+Secure chamber during heating/cooling to prevent tipping or spills.
+
+Label chamber with “Hot Surface” or “Gas Release in Progress” signage as needed.
+
+Ensure gas cylinders are secured and fitted with proper regulators.
+
+4. Emergency Procedures
+Gas leak: Evacuate lab, activate ventilation, notify supervisor and safety officer.
+
+Burn or frostbite: Apply first aid, seek medical attention.
+
+Implosion or equipment failure: Evacuate area, report incident, isolate equipment.
+
+5. Risk Rating (Before and After Controls)
+Hazard	Likelihood	Severity	Risk Rating	Residual Risk
+Burns from oven	Medium	High	High	Low
+Implosion	Low	High	Medium	Low
+Gas inhalation	Medium	High	High	Low
+Frostbite	Medium	Medium	Medium	Low
+Toxic gas exposure (if used)	Low	Very High	High	Medium (with controls)
