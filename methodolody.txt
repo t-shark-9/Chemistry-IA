@@ -1,0 +1,65 @@
+5.1 Materials: 
+-6 liter vacuum chamber (would have been the one i was going to acquire, if you have one it would be the one you have)
+-Vacuum compressor/pump 
+-Oven (capable of reaching 250°C) / heating mantel
+-Freezer (capable of reaching -8°C) / Cold Rooms
+-Oxygen (O₂) 
+-Nitrogen (N₂)
+-Argon (Ar)
+-Helium (He)
+-Neon (Ne) / if unavailable (Hydrogen H2 / Carbon Dioxide CO2 / Fluorine Fl2 / Chlorine Cl2)
+-Pressure gauge
+-Thermometer or thermocouple
+
+5.2 Procedure:
+Creating the Initial Vacuum:
+-Pull a vacuum on the 6-liter vacuum chamber with a compressor to achieve a partial vacuum (approximately 10,000 Pa (we would go as far to a vacuum as possible mine would only reach that)).
+
+Temperature and Pressure Readings with O₂:
+	-Add 1-liter O₂ gas to the vacuum chamber close of vacuum chamber  and disconnect from gas supply 
+-Heat the vacuum chamber in an oven to 250°C.
+-Wait 10 minutes so that the gas also has reached 250°C
+-Record actual temperature and pressure.
+-Sequentially change the oven temperature with the chamber inside and take measurements at the following temperature points:
+- 200°C Wait 10 minutes, measure temp & pressure.
+- 150°C Wait 10 minutes, measure temp & pressure.
+- 100°C Wait 10 minutes, measure temp & pressure.
+- 50°C Wait 10 minutes, measure temp & pressure.
+-Remove the chamber from the oven, let it sit for 30 minutes.
+-Place in the freezer until the chamber reaches -8°C, wait 10 minutes, and record temperature and pressure.
+
+Gas Release and Chamber Reset:
+-Open the vacuum chamber partially and place it in a fume hood / well circulated environment to allow the gas to dissipate.
+-Wait 30 minutes until all gas has left the chamber open more if needet
+-If the gas is heavier than air, tilt the chamber sideways to aid release.
+
+Repeating the Cycle with Other Gases:
+	-Repeat the same process for the following gases:
+-Gas 2: Nitrogen
+-Gas 3: Argon
+-Gas 4: Helium
+-Gas 5: Neon…
+
+5.3 Risk assessment: 
+
+Risk factor
+Description 
+Safety measure
+Chemical Hazard
+All gases except oxygen are inert, meaning no significant chemical risk.
+No special chemical precautions needed.
+Fire & Explosion Hazard
+Oxygen is an oxidizer and can accelerate combustion
+Ensure no open flames or flammable materials near the experiment.
+Cryogenic Risk
+Very low temperatures can cause frostbite or material damage.
+Temperatures below -20°C are avoided to minimize cryogenic risks.
+Oxygen Displacement
+Inert gases (except oxygen) can reduce oxygen levels and pose asphyxiation risks.
+Ensure good ventilation during and after the experiment to prevent gas buildup.
+Oxygen Enrichment
+Excessive oxygen levels can increase flammability of surrounding materials.
+Prevent leaks, maintain ventilation, and avoid excessive oxygen exposure.
+
+
+
